@@ -1,6 +1,6 @@
-🟢 : Feature 구현하면서 점진적으로 구현
-🟣 : Feature (branch 단위)
-🔹 : Feature 상세
+🟢 : Feature 구현하면서 점진적으로 구현 <br>
+🟣 : Feature (branch 단위) <br>
+🔹 : Feature 상세 <br>
 - [x] 메시지 출력 관련 유틸리티 구현 🟢
 - [x] 입력 관련 유틸리티 구현 🟢
 - [x] 구입 금액만큼 로또 반환 🟣
